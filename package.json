@@ -5,5 +5,9 @@
   "repository": "git@github.com:sbrow/prettier-config.git",
   "author": "Spencer Brower <brower.spencer@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "peerDependencies": {
+    "tslint": "^5.18.0",
+    "tslint-microsoft-contrib": "^6.2.0"
+  }
 }
