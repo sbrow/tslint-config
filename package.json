@@ -6,12 +6,15 @@
   "author": "Spencer Brower <brower.spencer@gmail.com>",
   "license": "MIT",
   "private": false,
+  "prettier": "@sbrow/prettier-config",
   "peerDependencies": {
     "tslint": "^5.18.0",
     "tslint-microsoft-contrib": "^6.2.0"
   },
   "devDependencies": {
-    "@sbrow/prettier-config": "^1.0.0",
+    "@sbrow/prettier-config": "^1.0.1",
+    "commitizen": "^3.1.1",
+    "cz-conventional-changelog": "^2.1.0",
     "prettier": "^1.18.2"
   }
 }
