@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config",
+  "name": "@sbrow/tslint-config",
   "version": "1.0.0",
   "main": "tslint-base.json",
   "repository": "git@github.com:sbrow/prettier-config.git",
