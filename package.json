@@ -1,11 +1,11 @@
 {
   "name": "@sbrow/tslint-config",
   "version": "1.2.0",
-  "main": "tslint-base.json",
-  "repository": "git@github.com:sbrow/prettier-config.git",
   "author": "Spencer Brower <brower.spencer@gmail.com>",
   "license": "MIT",
+  "repository": "git@github.com:sbrow/prettier-config.git",
   "private": false,
+  "main": "tslint-base.json",
   "prettier": "@sbrow/prettier-config",
   "peerDependencies": {
     "tslint": "^5.18.0",
