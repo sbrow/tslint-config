@@ -18,6 +18,7 @@
       true,
       "locale-compare",
       "match-declaration-order"
-    ],    "prefer-type-cast": false
+    ],
+    "prefer-type-cast": false
   }
-};
+}
