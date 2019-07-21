@@ -1,6 +1,6 @@
-{
-  "extends": ["tslint:recommended", "tslint-microsoft-contrib/recommended"],
-  "rules": {
+module.exports = {
+  extends: ["tslint:recommended", "tslint-microsoft-contrib/recommended"],
+  rules: {
     "arrow-parens": [true, "ban-single-arg-parens"],
     "object-literal-sort-keys": [
       true,
@@ -17,6 +17,8 @@
         "function-regex": "^[A-Za-z][\\w\\d]+$"
       }
     ],
-    "interface-name": false
+    "interface-name": false,
+    "prefer-type-cast": false,
+    "no-relative-imports": false
   }
-}
+};
