@@ -1,6 +1,6 @@
 {
   "name": "@sbrow/tslint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Spencer Brower <brower.spencer@gmail.com>",
   "license": "MIT",
   "repository": "git@github.com:sbrow/prettier-config.git",
